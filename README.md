@@ -20,4 +20,4 @@
 
 # 信息聚合（待分析分类）
 - https://haoshangle.com/
-- https://github.com/Ezer015/pick-anime-cool
+- [数字避难所](https://dr.cchostvps.xyz/)
